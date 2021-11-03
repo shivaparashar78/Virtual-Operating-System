@@ -1,5 +1,5 @@
 # Virtual-Operating-System
-This vitual os application consist of 3 mini applications  embedded in it like weather app , text editor and calculator .
+This vitual os application consist of 3 mini applications  embedded in it which are weather, text editor and calculator .
 
 APPS and their functions 
 
