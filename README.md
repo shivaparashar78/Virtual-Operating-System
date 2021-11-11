@@ -1,5 +1,6 @@
 # Virtual-Operating-System
 This vitual os application consist of 3 mini applications  embedded in it which are weather, text editor and calculator .
+Using Golang and Fyne.
 
 APPS and their functions 
 
